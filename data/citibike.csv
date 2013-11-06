@@ -1,0 +1,332 @@
+id,name,addr1,addr2,lat,lon,bikes_avail,docks_avail,docks_total,status_val,status_key,test_stn
+72,W 52 St & 11 Ave,W 52 St & 11 Ave,,40.76727216,-73.99392888,1,37,39,In Service,1,False
+79,Franklin St & W Broadway,Franklin St & W Broadway,,40.71911552,-74.00666661,27,6,33,In Service,1,False
+82,St James Pl & Pearl St,St James Pl & Pearl St,,40.71117416,-74.00016545,14,12,26,In Service,1,False
+83,Atlantic Ave & Fort Greene Pl,Atlantic Ave & Fort Greene Pl,,40.68382604,-73.97632328,0,62,62,In Service,1,False
+116,W 17 St & 8 Ave,W 17 St & 8 Ave,,40.74177603,-74.00149746,25,14,39,In Service,1,False
+119,Park Ave & St Edwards St,Park Ave & St Edwards St,,40.69608941,-73.97803415,0,19,19,In Service,1,False
+120,Lexington Ave & Classon Ave,Lexington Ave & Classon Ave,,40.68676793,-73.95928168,1,18,19,In Service,1,False
+127,Barrow St & Hudson St,Barrow St & Hudson St,,40.73172428,-74.00674436,3,28,31,In Service,1,False
+128,MacDougal St & Prince St,MacDougal St & Prince St,,40.72710258,-74.00297088,21,9,30,In Service,1,False
+137,E 56 St & Madison Ave,E 56 St & Madison Ave,,40.761628,-73.972924,42,4,46,In Service,1,False
+143,Clinton St & Joralemon St,Clinton St & Joralemon St,,40.69239502,-73.99337909,0,24,24,In Service,1,False
+144,Nassau St & Navy St,Nassau St & Navy St,,40.69839895,-73.98068914,4,15,19,In Service,1,False
+146,Hudson St & Reade St,Hudson St & Reade St,,40.71625008,-74.0091059,15,24,39,In Service,1,False
+147,Greenwich St & Warren St,Greenwich St & Warren St,,40.71542197,-74.01121978,28,5,33,In Service,1,False
+150,E 2 St & Avenue C,E 2 St & Avenue C,,40.7208736,-73.98085795,0,31,31,In Service,1,False
+151,Cleveland Pl & Spring St,Cleveland Pl & Spring St,,40.7218158,-73.99720307,29,4,33,In Service,1,False
+152,Warren St & Church St,Warren St & Church St,,40.71473993,-74.00910627,11,18,29,In Service,1,False
+153,E 40 St & 5 Ave,E 40 St & 5 Ave,,40.752062307,-73.9816324043,46,9,55,In Service,1,False
+157,Henry St & Atlantic Ave,Henry St & Atlantic Ave,,40.69089272,-73.99612349,0,23,23,In Service,1,False
+160,E 37 St & Lexington Ave,E 37 St & Lexington Ave,,40.748238,-73.978311,0,26,26,In Service,1,False
+161,LaGuardia Pl & W 3 St,LaGuardia Pl & W 3 St,,40.72917025,-73.99810231,27,8,35,In Service,1,False
+164,E 47 St & 2 Ave,E 47 St & 2 Ave,,40.75323098,-73.97032517,44,3,47,In Service,1,False
+167,E 39 St & 3 Ave,E 39 St & 3 Ave,,40.7489006,-73.97604882,36,9,45,In Service,1,False
+168,W 18 St & 6 Ave,W 18 St & 6 Ave,,40.73971301,-73.99456405,42,5,47,In Service,1,False
+173,Broadway & W 49 St,Broadway & W 49 St,,40.76064679,-73.98442659,18,33,51,In Service,1,False
+174,E 25 St & 1 Ave,E 25 St & 1 Ave,,40.7381765,-73.97738662,1,29,30,In Service,1,False
+195,Liberty St & Broadway,Liberty St & Broadway,,40.70905623,-74.01043382,42,3,45,In Service,1,False
+212,W 16 St & The High Line,W 16 St & The High Line,,40.74334935,-74.00681753,24,4,28,In Service,1,False
+216,Columbia Heights & Cranberry St,Columbia Heights & Cranberry St,,40.70037867,-73.99548059,0,23,23,In Service,1,False
+217,Old Fulton St,Old Fulton St,,40.70277159,-73.99383605,4,35,39,In Service,1,False
+218,Gallatin Pl & Livingston St,Gallatin Pl & Livingston St,,40.69028437,-73.98707105,3,35,38,In Service,1,False
+223,W 13 St & 7 Ave,W 13 St & 7 Ave,,40.73781509,-73.99994661,1,32,33,In Service,1,False
+224,Spruce St & Nassau St,Spruce St & Nassau St,,40.71146364,-74.00552427,11,20,31,In Service,1,False
+225,W 14 St & The High Line,W 14 St & The High Line,,40.74195138,-74.00803013,20,17,37,In Service,1,False
+228,E 48 St & 3 Ave,E 48 St & 3 Ave,,40.7546011026,-73.971878855,51,4,55,In Service,1,False
+229,Great Jones St,Great Jones St,,40.72743423,-73.99379025,25,2,27,In Service,1,False
+232,Cadman Plaza E & Tillary St,Cadman Plaza E & Tillary St,,40.69597683,-73.99014892,0,23,23,In Service,1,False
+233,Joralemon St & Adams St,Joralemon St & Adams St,,40.69246277,-73.98963911,2,37,39,In Service,1,False
+236,St Marks Pl & 2 Ave,St Marks Pl & 2 Ave,,40.7284186,-73.98713956,4,35,39,In Service,1,False
+237,E 11 St & 2 Ave,E 11 St & 2 Ave,,40.73047309,-73.98672378,1,38,39,In Service,1,False
+238,Bank St & Washington St,Bank St & Washington St,,40.7361967,-74.00859207,6,25,31,In Service,1,False
+239,Willoughby St & Fleet St,Willoughby St & Fleet St,,40.69196566,-73.9813018,26,5,31,In Service,1,False
+241,DeKalb Ave & S Portland Ave,DeKalb Ave & S Portland Ave,,40.68981035,-73.97493121,0,23,23,In Service,1,False
+242,Flushing Ave & Carlton Ave,Flushing Ave & Carlton Ave,,40.69788349,-73.97350332,10,13,23,In Service,1,False
+243,Fulton St & Rockwell Pl,Fulton St & Rockwell Pl,,40.688265,-73.979244,15,24,39,In Service,1,False
+244,Willoughby Ave & Hall St,Willoughby Ave & Hall St,,40.69196035,-73.96536851,1,30,31,In Service,1,False
+245,Myrtle Ave & St Edwards St,Myrtle Ave & St Edwards St,,40.69327018,-73.97703874,1,22,23,In Service,1,False
+247,Perry St & Bleecker St,Perry St & Bleecker St,,40.73535398,-74.00483091,0,20,20,In Service,1,False
+248,Laight St & Hudson St,Laight St & Hudson St,,40.72185379,-74.00771779,21,2,23,In Service,1,False
+249,Harrison St & Hudson St,Harrison St & Hudson St,,40.71870987,-74.0090009,25,2,27,In Service,1,False
+250,Lafayette St & Jersey St,Lafayette St & Jersey St,,40.72456089,-73.99565293,38,2,40,In Service,1,False
+251,Mott St & Prince St,Mott St & Prince St,,40.72317958,-73.99480012,21,6,27,In Service,1,False
+252,MacDougal St & Washington Sq,MacDougal St & Washington Sq,,40.73226398,-73.99852205,4,29,33,In Service,1,False
+253,W 13 St & 5 Ave,W 13 St & 5 Ave,,40.73543934,-73.99453948,39,8,47,In Service,1,False
+254,W 11 St & 6 Ave,W 11 St & 6 Ave,,40.73532427,-73.99800419,3,28,31,In Service,1,False
+257,Lispenard St & Broadway,Lispenard St & Broadway,,40.71939226,-74.00247214,33,6,39,In Service,1,False
+258,DeKalb Ave & Vanderbilt Ave,DeKalb Ave & Vanderbilt Ave,,40.68940747,-73.96885458,0,23,23,In Service,1,False
+259,South St & Whitehall St,South St & Whitehall St,,40.70122128,-74.01234218,33,6,39,In Service,1,False
+260,Broad St & Bridge St,Broad St & Bridge St,,40.70365182,-74.01167797,34,1,35,In Service,1,False
+261,Johnson St & Gold St,Johnson St & Gold St,,40.69474881,-73.98362464,11,16,27,In Service,1,False
+262,Washington Park,Washington Park,,40.69178232,-73.97372989,0,24,24,In Service,1,False
+263,Elizabeth St & Hester St,Elizabeth St & Hester St,,40.71729,-73.996375,16,15,31,In Service,1,False
+264,Maiden Ln & Pearl St,Maiden Ln & Pearl St,,40.70706456,-74.00731853,25,2,27,In Service,1,False
+265,Stanton St & Chrystie St,Stanton St & Chrystie St,,40.72229346,-73.99147535,6,29,35,In Service,1,False
+266,Avenue D & E 8 St,Avenue D & E 8 St,,40.72368361,-73.97574813,0,24,24,In Service,1,False
+267,Broadway & W 36 St,Broadway & W 36 St,,40.75097711,-73.98765428,2,55,57,In Service,1,False
+268,Howard St & Centre St,Howard St & Centre St,,40.71910537,-73.99973337,19,8,27,In Service,1,False
+270,Adelphi St & Myrtle Ave,Adelphi St & Myrtle Ave,,40.69308257,-73.97178913,1,22,23,In Service,1,False
+271,Ashland Pl & Hanson Pl,Ashland Pl & Hanson Pl,,40.68528172,-73.97805813,1,38,39,In Service,1,False
+274,Lafayette Ave & Fort Greene Pl,Lafayette Ave & Fort Greene Pl,,40.68691865,-73.976682,11,20,31,In Service,1,False
+275,Washington Ave & Greene Ave,Washington Ave & Greene Ave,,40.68650065,-73.96563307,1,18,19,In Service,1,False
+276,Duane St & Greenwich St,Duane St & Greenwich St,,40.71748752,-74.0104554,12,13,25,In Service,1,False
+278,Concord St & Bridge St,Concord St & Bridge St,,40.69766564,-73.98476437,0,19,19,In Service,1,False
+279,Sands St & Gold St,Sands St & Gold St,,40.69986937,-73.98271933,3,16,19,In Service,1,False
+280,E 10 St & 5 Ave,E 10 St & 5 Ave,,40.73331967,-73.99510132,4,27,31,In Service,1,False
+281,Grand Army Plaza & Central Park S,Grand Army Plaza & Central Park S,,40.7643971,-73.97371465,47,12,59,In Service,1,False
+282,Kent Ave & S 11 St,Kent Ave & S 11 St,,40.70827295,-73.96834101,0,27,27,In Service,1,False
+284,Greenwich Ave & 8 Ave,Greenwich Ave & 8 Ave,,40.7390169121,-74.0026376103,19,24,43,In Service,1,False
+285,Broadway & E 14 St,Broadway & E 14 St,,40.73454567,-73.99074142,39,8,47,In Service,1,False
+289,Monroe St & Classon Ave,Monroe St & Classon Ave,,40.6845683,-73.95881081,1,18,19,In Service,1,False
+290,2 Ave & E 58 St,2 Ave & E 58 St,,40.76020258,-73.96478473,0,29,29,In Service,1,False
+291,Madison St & Montgomery St,Madison St & Montgomery St,,40.713126,-73.984844,0,20,20,In Service,1,False
+293,Lafayette St & E 8 St,Lafayette St & E 8 St,,40.73028666,-73.9907647,30,25,55,In Service,1,False
+294,Washington Square E,Washington Square E,,40.73049393,-73.9957214,26,5,31,In Service,1,False
+295,Pike St & E Broadway,Pike St & E Broadway,,40.71406667,-73.99293911,16,8,24,In Service,1,False
+296,Division St & Bowery,Division St & Bowery,,40.71413089,-73.9970468,14,21,35,In Service,1,False
+297,E 15 St & 3 Ave,E 15 St & 3 Ave,,40.734232,-73.986923,4,23,27,In Service,1,False
+298,3 Ave & Flatbush Ave,3 Ave & Flatbush Ave,,40.68683208,-73.9796772,0,35,35,In Service,1,False
+300,Shevchenko Pl & E 6 St,Shevchenko Pl & E 6 St,,40.728145,-73.990214,30,25,55,In Service,1,False
+301,E 2 St & Avenue B,E 2 St & Avenue B,,40.72217444,-73.98368779,0,37,37,In Service,1,False
+302,Avenue D & E 3 St,Avenue D & E 3 St,,40.72082834,-73.97793172,0,23,23,In Service,1,False
+303,Mercer St & Spring St,Mercer St & Spring St,,40.72362738,-73.99949601,29,2,31,In Service,1,False
+304,Broadway & Battery Pl,Broadway & Battery Pl,,40.70463334,-74.01361706,32,4,36,In Service,1,False
+305,E 58 St & 3 Ave,E 58 St & 3 Ave,,40.76095756,-73.96724467,26,7,33,In Service,1,False
+306,Cliff St & Fulton St,Cliff St & Fulton St,,40.70823502,-74.00530063,15,22,37,In Service,1,False
+307,Canal St & Rutgers St,Canal St & Rutgers St,,40.71427487,-73.98990025,0,31,31,In Service,1,False
+308,St James Pl & Oliver St,St James Pl & Oliver St,,40.71307916,-73.99851193,2,25,27,In Service,1,False
+309,Murray St & West St,Murray St & West St,,40.7149787,-74.013012,40,1,41,In Service,1,False
+310,State St & Smith St,State St & Smith St,,40.68926942,-73.98912867,1,34,35,In Service,1,False
+311,Norfolk St & Broome St,Norfolk St & Broome St,,40.7172274,-73.98802084,2,28,30,In Service,1,False
+312,Allen St & E Houston St,Allen St & E Houston St,,40.722055,-73.989111,3,28,31,In Service,1,False
+313,Washington Ave & Park Ave,Washington Ave & Park Ave,,40.69610226,-73.96751037,6,17,23,In Service,1,False
+314,Montague St & Clinton St,Montague St & Clinton St,,40.69424674,-73.99215922,0,39,39,In Service,1,False
+315,South St & Gouverneur Ln,South St & Gouverneur Ln,,40.70355377,-74.00670227,20,9,29,In Service,1,False
+316,Fulton St & William St,Fulton St & William St,,40.70955958,-74.00653609,6,37,43,In Service,1,False
+317,E 6 St & Avenue B,E 6 St & Avenue B,,40.72453734,-73.98185424,2,25,27,In Service,1,False
+318,E 43 St & Vanderbilt Ave,E 43 St & Vanderbilt Ave,,40.75320159,-73.9779874,3,28,31,In Service,1,False
+319,Park Pl & Church St,Park Pl & Church St,,40.71336124,-74.00937622,2,33,35,In Service,1,False
+320,Church St & Leonard St,Church St & Leonard St,,40.71743998,-74.00583475,10,29,39,In Service,1,False
+321,Cadman Plaza E & Red Cross Pl,Cadman Plaza E & Red Cross Pl,,40.69991755,-73.98971773,0,27,27,In Service,1,False
+322,Clinton St & Tillary St,Clinton St & Tillary St,,40.696192,-73.991218,0,31,31,In Service,1,False
+323,Lawrence St & Willoughby St,Lawrence St & Willoughby St,,40.69236178,-73.98631746,8,31,39,In Service,1,False
+324,DeKalb Ave & Hudson Ave,DeKalb Ave & Hudson Ave,,40.689888,-73.981013,46,5,51,In Service,1,False
+325,E 19 St & 3 Ave,E 19 St & 3 Ave,,40.73624527,-73.98473765,8,27,35,In Service,1,False
+326,E 11 St & 1 Ave,E 11 St & 1 Ave,,40.72953837,-73.98426726,0,27,27,In Service,1,False
+327,Vesey Pl & River Terrace,Vesey Pl & River Terrace,,40.7153379,-74.01658354,35,4,39,In Service,1,False
+328,Watts St & Greenwich St,Watts St & Greenwich St,,40.72405549,-74.00965965,18,5,23,In Service,1,False
+329,Greenwich St & N Moore St,Greenwich St & N Moore St,,40.72043411,-74.01020609,29,2,31,In Service,1,False
+330,Reade St & Broadway,Reade St & Broadway,,40.71450451,-74.00562789,30,9,39,In Service,1,False
+331,Pike St & Monroe St,Pike St & Monroe St,,40.71173107,-73.99193043,3,24,27,In Service,1,False
+332,Cherry St,Cherry St,,40.71219906,-73.97948148,0,24,24,In Service,1,False
+334,W 20 St & 7 Ave,W 20 St & 7 Ave,,40.74238787,-73.99726235,2,29,31,In Service,1,False
+335,Washington Pl & Broadway,Washington Pl & Broadway,,40.72903917,-73.99404649,24,3,27,In Service,1,False
+336,Sullivan St & Washington Sq,Sullivan St & Washington Sq,,40.73047747,-73.99906065,15,21,36,In Service,1,False
+337,Old Slip & Front St,Old Slip & Front St,,40.7037992,-74.00838676,36,1,37,In Service,1,False
+339,Avenue D & E 12 St,Avenue D & E 12 St,,40.72580614,-73.97422494,0,24,24,In Service,1,False
+340,Madison St & Clinton St,Madison St & Clinton St,,40.71269042,-73.98776323,4,23,27,In Service,1,False
+341,Stanton St & Mangin St,Stanton St & Mangin St,,40.71782143,-73.97628939,11,8,19,In Service,1,False
+342,Columbia St & Rivington St,Columbia St & Rivington St,,40.71739973,-73.98016555,0,29,29,In Service,1,False
+343,Clinton Ave & Flushing Ave,Clinton Ave & Flushing Ave,,40.69794,-73.96986848,19,4,23,In Service,1,False
+344,Monroe St & Bedford Ave,Monroe St & Bedford Ave,,40.6851443,-73.95380904,4,19,23,In Service,1,False
+345,W 13 St & 6 Ave,W 13 St & 6 Ave,,40.73649403,-73.99704374,25,10,35,In Service,1,False
+346,Bank St & Hudson St,Bank St & Hudson St,,40.73652889,-74.00618026,0,27,27,In Service,1,False
+347,W Houston St & Hudson St,W Houston St & Hudson St,,40.72873888,-74.00748842,27,8,35,In Service,1,False
+348,W Broadway & Spring St,W Broadway & Spring St,,40.72490985,-74.00154702,27,15,42,In Service,1,False
+349,Rivington St & Ridge St,Rivington St & Ridge St,,40.71850211,-73.98329859,0,23,23,In Service,1,False
+350,Clinton St & Grand St,Clinton St & Grand St,,40.71559509,-73.9870295,0,28,28,In Service,1,False
+351,Front St & Maiden Ln,Front St & Maiden Ln,,40.70530954,-74.00612572,39,0,39,In Service,1,False
+352,W 56 St & 6 Ave,W 56 St & 6 Ave,,40.76340613,-73.97722479,36,0,36,In Service,1,False
+353,S Portland Ave & Hanson Pl,S Portland Ave & Hanson Pl,,40.68539567,-73.97431458,0,27,27,In Service,1,False
+354,Emerson Pl & Myrtle Ave,Emerson Pl & Myrtle Ave,,40.69363137,-73.96223558,12,19,31,In Service,1,False
+355,Bayard St & Baxter St,Bayard St & Baxter St,,40.71602118,-73.99974372,29,14,43,In Service,1,False
+356,Bialystoker Pl & Delancey St,Bialystoker Pl & Delancey St,,40.71622644,-73.98261206,2,21,23,In Service,1,False
+357,E 11 St & Broadway,E 11 St & Broadway,,40.73261787,-73.99158043,9,18,27,In Service,1,False
+358,Christopher St & Greenwich St,Christopher St & Greenwich St,,40.73291553,-74.00711384,2,34,36,In Service,1,False
+359,E 47 St & Park Av,E 47 St & Park Ave,,40.75510267,-73.97498696,49,6,55,In Service,1,False
+360,William St & Pine St,William St & Pine St,,40.70717936,-74.00887308,34,5,39,In Service,1,False
+361,Allen St & Hester St,Allen St & Hester St,,40.71605866,-73.99190759,7,36,43,In Service,1,False
+362,Broadway & W 37 St,Broadway & W 37 St,,40.75172632,-73.98753523,5,52,57,In Service,1,False
+363,West Thames St,West Thames St,,40.70834698,-74.01713445,4,45,49,In Service,1,False
+364,Lafayette Ave & Classon Ave,Lafayette Ave & Classon Ave,,40.68900443,-73.96023854,8,19,27,In Service,1,False
+365,Fulton St & Grand Ave,Fulton St & Grand Ave,,40.68223166,-73.9614583,3,28,31,In Service,1,False
+366,Clinton Ave & Myrtle Ave,Clinton Ave & Myrtle Ave,,40.693261,-73.968896,0,33,33,In Service,1,False
+367,E 53 St & Lexington Ave,E 53 St & Lexington Ave,,40.75828065,-73.97069431,34,0,34,In Service,1,False
+368,Carmine St & 6 Ave,Carmine St & 6 Ave,,40.73038599,-74.00214988,34,5,39,In Service,1,False
+369,Washington Pl & 6 Ave,Washington Pl & 6 Ave,,40.73224119,-74.00026394,0,35,35,In Service,1,False
+372,Franklin Ave & Myrtle Ave,Franklin Ave & Myrtle Ave,,40.694528,-73.958089,0,27,27,In Service,1,False
+373,Willoughby Ave & Walworth St,Willoughby Ave & Walworth St,,40.69331716,-73.95381995,6,13,19,In Service,1,False
+375,Mercer St & Bleecker St,Mercer St & Bleecker St,,40.72679454,-73.99695094,20,10,30,In Service,1,False
+376,John St & William St,John St & William St,,40.70862144,-74.00722156,11,32,43,In Service,1,False
+377,6 Ave & Canal St,6 Ave & Canal St,,40.72243797,-74.00566443,41,6,47,In Service,1,False
+379,W 31 St & 7 Ave,W 31 St & 7 Ave,,40.749156,-73.9916,0,42,42,In Service,1,False
+380,W 4 St & 7 Ave S,W 4 St & 7 Ave S,,40.73401143,-74.00293877,1,38,39,In Service,1,False
+382,University Pl & E 14 St,University Pl & E 14 St,,40.73492695,-73.99200509,34,2,36,In Service,1,False
+383,Greenwich Ave & Charles St,Greenwich Ave & Charles St,,40.735238,-74.000271,0,39,39,In Service,1,False
+384,Fulton St & Waverly Ave,Fulton St & Waverly Ave,,40.68317813,-73.9659641,1,30,31,In Service,1,False
+385,E 55 St & 2 Ave,E 55 St & 2 Ave,,40.75797322,-73.96603308,3,26,29,In Service,1,False
+386,Centre St & Worth St,Centre St & Worth St,,40.71494807,-74.00234482,31,12,43,In Service,1,False
+387,Centre St & Chambers St,Centre St & Chambers St,,40.71273266,-74.0046073,23,16,39,In Service,1,False
+388,W 26 St & 10 Ave,W 26 St & 10 Ave,,40.749717753,-74.002950346,31,4,35,In Service,1,False
+389,Broadway & Berry St,Broadway & Berry St,,40.71044554,-73.96525063,0,27,27,In Service,1,False
+390,Duffield St & Willoughby St,Duffield St & Willoughby St,,40.69221589,-73.9842844,11,20,31,In Service,1,False
+391,Clark St & Henry St,Clark St & Henry St,,40.69760127,-73.99344559,0,30,30,In Service,1,False
+392,Jay St & Tech Pl,Jay St & Tech Pl,,40.695065,-73.987167,26,6,32,In Service,1,False
+393,E 5 St & Avenue C,E 5 St & Avenue C,,40.72299208,-73.97995466,0,31,31,In Service,1,False
+394,E 9 St & Avenue C,E 9 St & Avenue C,,40.72521311,-73.97768752,0,36,36,In Service,1,False
+395,Bond St & Schermerhorn St,Bond St & Schermerhorn St,,40.68807003,-73.98410637,0,30,30,In Service,1,False
+396,Lefferts Pl & Franklin Ave,Lefferts Pl & Franklin Ave,,40.680342423,-73.9557689392,0,25,25,In Service,1,False
+397,Fulton St & Clermont Ave,Fulton St & Clermont Ave,,40.68415748,-73.96922273,0,27,27,In Service,1,False
+398,Atlantic Ave & Furman St,Atlantic Ave & Furman St,,40.69165183,-73.9999786,0,31,31,In Service,1,False
+399,Lafayette Ave & St James Pl,Lafayette Ave & St James Pl,,40.68851534,-73.9647628,0,27,27,In Service,1,False
+400,Pitt St & Stanton St,Pitt St & Stanton St,,40.71926081,-73.98178024,0,15,15,In Service,1,False
+401,Allen St & Rivington St,Allen St & Rivington St,,40.72019576,-73.98997825,1,41,42,In Service,1,False
+402,Broadway & E 22 St,Broadway & E 22 St,,40.7403432,-73.98955109,39,3,42,In Service,1,False
+403,E 2 St & 2 Ave,E 2 St & 2 Ave,,40.72502876,-73.99069656,4,27,31,In Service,1,False
+404,9 Ave & W 14 St,9 Ave & W 14 St,,40.7405826,-74.00550867,33,6,39,In Service,1,False
+405,Washington St & Gansevoort St,Washington St & Gansevoort St,,40.739323,-74.008119,22,18,40,In Service,1,False
+406,Hicks St & Montague St,Hicks St & Montague St,,40.69512845,-73.99595065,0,34,34,In Service,1,False
+407,Henry St & Poplar St,Henry St & Poplar St,,40.700469,-73.991454,0,43,43,In Service,1,False
+408,Market St & Cherry St,Market St & Cherry St,,40.71076228,-73.99400398,4,19,23,In Service,1,False
+409,DeKalb Ave & Skillman St,DeKalb Ave & Skillman St,,40.6906495,-73.95643107,9,10,19,In Service,1,False
+410,Suffolk St & Stanton St,Suffolk St & Stanton St,,40.72066442,-73.98517977,3,32,35,In Service,1,False
+411,E 6 St & Avenue D,E 6 St & Avenue D,,40.72228087,-73.97668709,0,23,23,In Service,1,False
+412,Forsyth St & Canal St,Forsyth St & Canal St,,40.7158155,-73.99422366,6,23,29,In Service,1,False
+414,Pearl St & Anchorage Pl,Pearl St & Anchorage Pl,,40.70281858,-73.98765762,22,2,24,In Service,1,False
+415,Pearl St & Hanover Square,Pearl St & Hanover Square,,40.7047177,-74.00926027,41,1,42,In Service,1,False
+416,Cumberland St & Lafayette Ave,Cumberland St & Lafayette Ave,,40.68753406,-73.97265183,0,31,31,In Service,1,False
+417,Barclay St & Church St,Barclay St & Church St,,40.71291224,-74.01020234,3,44,47,In Service,1,False
+418,Front St & Gold St,Front St & Gold St,,40.70224,-73.982578,20,3,23,In Service,1,False
+419,Carlton Ave & Park Ave,Carlton Ave & Park Ave,,40.69580705,-73.97355569,6,17,23,In Service,1,False
+420,Clermont Ave & Lafayette Ave,Clermont Ave & Lafayette Ave,,40.68764484,-73.96968902,1,22,23,In Service,1,False
+421,Clermont Ave & Park Ave,Clermont Ave & Park Ave,,40.69573398,-73.97129668,2,17,19,In Service,1,False
+422,W 59 St & 10 Ave,W 59 St & 10 Ave,,40.770513,-73.988038,3,52,55,In Service,1,False
+423,W 54 St & 9 Ave,W 54 St & 9 Ave,,40.76584941,-73.98690506,1,38,39,In Service,1,False
+426,West St & Chambers St,West St & Chambers St,,40.71754834,-74.01322069,23,8,31,In Service,1,False
+427,State St,State St,,40.70251526,-74.01427023,34,25,59,In Service,1,False
+428,E 3 St & 1 Ave,E 3 St & 1 Ave,,40.72467721,-73.98783413,0,31,31,In Service,1,False
+430,York St & Jay St,York St & Jay St,,40.7014851,-73.98656928,23,4,27,In Service,1,False
+431,Hanover Pl & Livingston St,Hanover Pl & Livingston St,,40.68864636,-73.98263429,2,28,30,In Service,1,False
+432,E 7 St & Avenue A,E 7 St & Avenue A,,40.72621788,-73.98379855,0,31,31,In Service,1,False
+433,E 13 St & Avenue A,E 13 St & Avenue A,,40.72955361,-73.98057249,1,38,39,In Service,1,False
+434,9 Ave & W 18 St,9 Ave & W 18 St,,40.74317449,-74.00366443,26,1,27,In Service,1,False
+435,W 21 St & 6 Ave,W 21 St & 6 Ave,,40.74173969,-73.99415556,41,6,47,In Service,1,False
+436,Hancock St & Bedford Ave,Hancock St & Bedford Ave,,40.68216564,-73.95399026,0,27,27,In Service,1,False
+437,Macon St & Nostrand Ave,Macon St & Nostrand Ave,,40.6809833854,-73.9500479759,5,22,27,In Service,1,False
+438,St Marks Pl & 1 Ave,St Marks Pl & 1 Ave,,40.72779126,-73.98564945,1,26,27,In Service,1,False
+439,E 4 St & 2 Ave,E 4 St & 2 Ave,,40.7262807,-73.98978041,0,39,39,In Service,1,False
+440,E 45 St & 3 Ave,E 45 St & 3 Ave,,40.75255434,-73.97282625,32,0,32,In Service,1,False
+441,E 52 St & 2 Ave,E 52 St & 2 Ave,,40.756014,-73.967416,7,28,35,In Service,1,False
+442,W 27 St & 7 Ave,W 27 St & 7 Ave,,40.746647,-73.993915,7,44,51,In Service,1,False
+443,Bedford Ave & S 9 St,Bedford Ave & S 9th St,,40.70853074,-73.96408963,2,21,23,In Service,1,False
+444,Broadway & W 24 St,Broadway & W 24 St,,40.7423543,-73.98915076,49,3,52,In Service,1,False
+445,E 10 St & Avenue A,E 10 St & Avenue A,,40.72740794,-73.98142006,5,31,36,In Service,1,False
+446,W 24 St & 7 Ave,W 24 St & 7 Ave,,40.74487634,-73.99529885,1,38,39,In Service,1,False
+447,8 Ave & W 52 St,8 Ave & W 52 St,,40.76370739,-73.9851615,1,30,31,In Service,1,False
+448,W 37 St & 10 Ave,W 37 St & 10 Ave,,40.75660359,-73.9979009,9,22,31,In Service,1,False
+449,W 52 St & 9 Ave,W 52 St & 9 Ave,,40.76461837,-73.98789473,0,31,31,In Service,1,False
+450,W 49 St & 8 Ave,W 49 St & 8 Ave,,40.76227205,-73.98788205,0,59,59,In Service,1,False
+453,W 22 St & 8 Ave,W 22 St & 8 Ave,,40.74475148,-73.99915362,2,37,39,In Service,1,False
+454,E 51 St & 1 Ave,E 51 St & 1 Ave,,40.75455731,-73.96592976,3,32,35,In Service,1,False
+455,1 Ave & E 44 St,1 Ave & E 44 St,,40.75001986,-73.96905301,27,12,39,In Service,1,False
+456,E 53 St & Madison Ave,E 53 St & Madison Ave,,40.7597108,-73.97402311,34,1,35,In Service,1,False
+457,Broadway & W 57 St,Broadway & W 57 St,,40.76695317,-73.98169333,2,57,59,In Service,1,False
+458,11 Ave & W 27 St,11 Ave & W 27 St,,40.751396,-74.005226,0,31,31,In Service,1,False
+459,W 18 St & 11 Ave,W 18 St & 11 Ave,,40.74522724,-74.00797904,17,4,21,In Service,1,False
+460,S 4 St & Wythe Ave,S 4 St & Wythe Ave,,40.71285887,-73.96590294,1,22,23,In Service,1,False
+461,E 20 St & 2 Ave,E 20 St & 2 Ave,,40.73587678,-73.98205027,0,39,39,Not In Service,3,False
+462,W 22 St & 10 Ave,W 22 St & 10 Ave,,40.74691959,-74.00451887,22,25,47,In Service,1,False
+463,9 Ave & W 16 St,9 Ave & W 16 St,,40.74206539,-74.00443172,22,3,25,In Service,1,False
+464,E 56 St & 3 Ave,E 56 St & 3 Ave,,40.75934501,-73.96759673,31,28,59,In Service,1,False
+465,Broadway & W 41 St,Broadway & W 41 St,,40.75513557,-73.98658032,12,27,39,In Service,1,False
+466,W 25 St & 6 Ave,W 25 St & 6 Ave,,40.74395411,-73.99144871,23,12,35,In Service,1,False
+467,Dean St & 4 Ave,Dean St & 4 Ave,,40.68312489,-73.97895137,14,20,34,In Service,1,False
+468,Broadway & W 55 St,Broadway & W 55 St,,40.7652654,-73.98192338,1,58,59,In Service,1,False
+469,Broadway & W 53 St,Broadway & W 53 St,,40.76344058,-73.98268129,0,57,57,In Service,1,False
+470,W 20 St & 8 Ave,W 20 St & 8 Ave,,40.74345335,-74.00004031,2,35,37,In Service,1,False
+471,Grand St & Havemeyer St,Grand St & Havemeyer St,,40.71286844,-73.95698119,21,6,27,In Service,1,False
+472,E 32 St & Park Ave,E 32 St & Park Ave,,40.7457121,-73.98194829,11,30,41,In Service,1,False
+473,Rivington St & Chrystie St,Rivington St & Chrystie St,,40.72110063,-73.9919254,20,22,42,In Service,1,False
+474,5 Ave & E 29 St,5 Ave & E 29 St,,40.7451677,-73.98683077,39,8,47,In Service,1,False
+475,E 16 St & Irving Pl,E 16 St & Irving Pl,,40.73524276,-73.98758561,30,7,37,In Service,1,False
+476,E 31 St & 3 Ave,E 31 St & 3 Ave,,40.74394314,-73.97966069,0,47,47,In Service,1,False
+477,W 41 St & 8 Ave,W 41 St & 8 Ave,,40.75640548,-73.9900262,14,45,59,In Service,1,False
+478,11 Ave & W 41 St,11 Ave & W 41 St,,40.76030096,-73.99884222,0,24,24,In Service,1,False
+479,9 Ave & W 45 St,9 Ave & W 45 St,,40.76019252,-73.9912551,1,30,31,In Service,1,False
+480,W 53 St & 10 Ave,W 53 St & 10 Ave,,40.76669671,-73.99061728,2,25,27,In Service,1,False
+481,S 3 St & Bedford Ave,S 3 St & Bedford Ave,,40.71260486,-73.96264403,11,14,25,In Service,1,False
+482,W 15 St & 7 Ave,W 15 St & 7 Ave,,40.73935542,-73.99931783,6,33,39,In Service,1,False
+483,E 12 St & 3 Ave,E 12 St & 3 Ave,,40.73223272,-73.98889957,2,33,35,In Service,1,False
+484,W 44 St & 5 Ave,W 44 St & 5 Ave,,40.75500254,-73.98014437,37,7,44,In Service,1,False
+485,W 37 St & 5 Ave,W 37 St & 5 Ave,,40.75038009,-73.98338988,21,18,39,In Service,1,False
+486,Broadway & W 29 St,Broadway & W 29 St,,40.7462009,-73.98855723,17,22,39,In Service,1,False
+487,E 20 St & FDR Drive,E 20 St & FDR Drive,,40.73314259,-73.97573881,0,36,36,In Service,1,False
+488,W 39 St & 9 Ave,W 39 St & 9 Ave,,40.75645824,-73.99372222,0,41,41,In Service,1,False
+489,10 Ave & W 28 St,10 Ave & W 28 St,,40.75066386,-74.00176802,33,4,37,In Service,1,False
+490,8 Ave & W 33 St,8 Ave & W 33 St,,40.751551,-73.993934,33,26,59,In Service,1,False
+491,E 24 St & Park Ave S,E 24 St & Park Ave S,,40.74096374,-73.98602213,51,2,53,In Service,1,False
+492,W 33 St & 7 Ave,W 33 St & 7 Ave,,40.75019995,-73.99093085,0,49,49,In Service,1,False
+493,W 45 St & 6 Ave,W 45 St & 6 Ave,,40.7568001,-73.98291153,25,9,34,In Service,1,False
+494,W 26 St & 8 Ave,W 26 St & 8 Ave,,40.74734825,-73.99723551,4,31,35,In Service,1,False
+495,W 47 St & 10 Ave,W 47 St & 10 Ave,,40.76269882,-73.99301222,2,23,25,In Service,1,False
+496,E 16 St & 5 Ave,E 16 St & 5 Ave,,40.73726186,-73.99238967,0,27,47,Not In Service,3,False
+497,E 17 St & Broadway,E 17 St & Broadway,,40.73704984,-73.99009296,50,9,59,In Service,1,False
+498,Broadway & W 32 St,Broadway & W 32 St,,40.74854862,-73.98808416,0,30,30,In Service,1,False
+499,Broadway & W 60 St,Broadway & W 60 St,,40.76915505,-73.98191841,1,35,36,In Service,1,False
+500,Broadway & W 51 St,Broadway & W 51 St,,40.76228826,-73.98336183,15,37,52,In Service,1,False
+501,FDR Drive & E 35 St,FDR Drive & E 35 St,,40.744219,-73.97121214,20,23,43,In Service,1,False
+502,Henry St & Grand St,Henry St & Grand St,,40.714215,-73.981346,0,30,30,In Service,1,False
+503,E 20 St & Park Ave,E 20 St & Park Ave,,40.73827428,-73.98751968,0,19,29,Not In Service,3,False
+504,1 Ave & E 15 St,1 Ave & E 15 St,,40.73221853,-73.98165557,0,45,45,In Service,1,False
+505,6 Ave & W 33 St,6 Ave & W 33 St,,40.74901271,-73.98848395,4,32,36,In Service,1,False
+507,E 25 St & 2 Ave,E 25 St & 2 Ave,,40.73912601,-73.97973776,14,33,47,In Service,1,False
+508,W 46 St & 11 Ave,W 46 St & 11 Ave,,40.76341379,-73.99667444,1,23,24,In Service,1,False
+509,9 Ave & W 22 St,9 Ave & W 22 St,,40.7454973,-74.00197139,0,36,36,In Service,1,False
+510,W 51 St & 6 Ave,W 51 St & 6 Ave,,40.7606597,-73.98042047,47,4,51,In Service,1,False
+511,E 14 St & Avenue B,E 14 St & Avenue B,,40.72938685,-73.97772429,0,33,33,In Service,1,False
+512,W 29 St & 9 Ave,W 29 St & 9 Ave,,40.7500727,-73.99839279,1,26,27,In Service,1,False
+513,W 56 St & 10 Ave,W 56 St & 10 Ave,,40.768254,-73.988639,5,22,27,In Service,1,False
+514,12 Ave & W 40 St,12 Ave & W 40 St,,40.76087502,-74.00277668,24,29,53,In Service,1,False
+515,W 43 St & 10 Ave,W 43 St & 10 Ave,,40.76009437,-73.99461843,1,34,35,In Service,1,False
+516,E 47 St & 1 Ave,E 47 St & 1 Ave,,40.75206862,-73.96784384,34,5,39,In Service,1,False
+517,Pershing Square S,Pershing Square S,,40.75149263,-73.97798848,1,58,59,In Service,1,False
+518,E 39 St & 2 Ave,E 39 St & 2 Ave,,40.74780373,-73.9734419,6,33,39,In Service,1,False
+519,Pershing Square N,Pershing Square N,,40.75188406,-73.97770164,1,60,61,In Service,1,False
+520,W 52 St & 5 Ave,W 52 St & 5 Ave,,40.75992262,-73.97648516,37,2,39,In Service,1,False
+521,8 Ave & W 31 St,8 Ave & W 31 St,,40.75044999,-73.99481051,61,6,67,In Service,1,False
+522,E 51 St & Lexington Ave,E 51 St & Lexington Ave,,40.75714758,-73.97207836,47,4,51,In Service,1,False
+523,W 38 St & 8 Ave,W 38 St & 8 Ave,,40.75466591,-73.99138152,4,47,51,In Service,1,False
+524,W 43 St & 6 Ave,W 43 St & 6 Ave,,40.75527307,-73.98316936,18,39,57,In Service,1,False
+525,W 34 St & 11 Ave,W 34 St & 11 Ave,,40.75594159,-74.0021163,37,2,39,In Service,1,False
+526,E 33 St & 5 Ave,E 33 St & 5 Ave,,40.74765947,-73.98490707,16,27,43,In Service,1,False
+527,E 33 St & 1 Ave,E 33 St & 1 Ave,,40.74315566,-73.97434726,30,29,59,In Service,1,False
+528,2 Ave & E 30 St,2 Ave & E 30 St,,40.74290902,-73.97706058,0,38,38,In Service,1,False
+529,W 42 St & 8 Ave,W 42 St & 8 Ave,,40.7575699,-73.99098507,2,39,41,In Service,1,False
+531,Forsyth St & Broome St,Forsyth St & Broome St,,40.71893904,-73.99266288,8,31,39,In Service,1,False
+532,S 5 Pl & S 4 St,S 5 Pl & S 4 St,,40.710451,-73.960876,10,33,43,In Service,1,False
+533,Broadway & W 39 St,Broadway & W 39 St,,40.75299641,-73.98721619,13,37,50,In Service,1,False
+534,Water - Whitehall Plaza,Water - Whitehall Plaza,,40.70255065,-74.0127234,28,3,31,In Service,1,False
+536,1 Ave & E 30 St,1 Ave & E 30 St,,40.74144387,-73.97536082,21,8,29,In Service,1,False
+537,Lexington Ave & E 24 St,Lexington Ave & E 24 St,,40.74025878,-73.98409214,36,3,39,In Service,1,False
+538,W 49 St & 5 Ave,W 49 St & 5 Ave,,40.75795248,-73.97787642,30,9,39,In Service,1,False
+539,Metropolitan Ave & Bedford Ave,Metropolitan Ave & Bedford Ave,,40.71534825,-73.96024116,26,5,31,In Service,1,False
+540,Lexington Ave & E 26 St,Lexington Ave & E 26 St,,40.74147286,-73.98320928,37,2,39,In Service,1,False
+545,E 23 St & 1 Ave,E 23 St & 1 Ave,,40.736502,-73.97809472,0,27,27,In Service,1,False
+546,E 30 St & Park Ave S,E 30 St & Park Ave S,,40.74444921,-73.98303529,33,5,38,In Service,1,False
+2000,Front St & Washington St,Front St & Washington St,,40.70255088,-73.98940236,25,5,30,In Service,1,False
+2001,7 Ave & Farragut St,7 Ave & Farragut St,,40.69892054,-73.97332996,14,1,15,In Service,1,False
+2002,Wythe Ave & Metropolitan Ave,Wythe Ave & Metropolitan Ave,,40.716887,-73.963198,15,12,27,In Service,1,False
+2003,1 Ave & E 18 St,1 Ave & E 18 St,STX 277,40.73416059,-73.98024289,1,29,30,In Service,1,False
+2004,6 Ave & Broome St,6 Ave & Broome St,,40.724399,-74.004704,27,9,36,In Service,1,False
+2005,Railroad Ave & Kay Ave,Railroad Ave & Kay Ave,,40.70531194,-73.97100056,6,6,12,In Service,1,False
+2006,Central Park S & 6 Ave,Central Park S & 6 Ave,STX 287,40.76590936,-73.97634151,9,40,49,In Service,1,False
+2008,Little West St & 1 Pl,Little West St & 1 Pl,,40.70569254,-74.01677685,7,17,24,In Service,1,False
+2009,Catherine St & Monroe St,Catherine St & Monroe St,,40.71117444,-73.99682619,11,24,35,In Service,1,False
+2010,Grand St & Greene St,Grand St & Greene St,,40.72165481,-74.00234737,22,17,39,In Service,1,False
+2012,E 27 St & 1 Ave,E 27 St & 1 Ave,,40.739445,-73.976806,24,12,36,In Service,1,False
+2017,E 43 St & 2 Ave,E 43 St & 2 Ave,,40.75022392,-73.97121414,3,36,39,In Service,1,False
+2021,W 45 St & 8 Ave,W 45 St & 8 Ave,,40.75929124,-73.98859651,0,43,43,In Service,1,False
+2022,E 59 St & Sutton Pl,E 59 St & Sutton Pl,,40.75849116,-73.95920622,4,29,33,In Service,1,False
+2023,E 55 St & Lexington Ave,E 55 St & Lexington Ave,,40.75968085,-73.97031366,32,4,36,In Service,1,False
+3002,South End Ave & Liberty St,South End Ave & Liberty St,,40.711512,-74.015756,9,16,25,In Service,1,False
