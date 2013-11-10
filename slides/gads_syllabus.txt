@@ -1,0 +1,48 @@
+===========
+syllabus
+===========
+
+INTRO
+   1) setup (installing python & scientific libraries)
+   2) intro to DS/ML/data exploration with UNIX
+   3) logistic regression
+   4) intro to ML theory (train/test/OOS, overfitting, etc)
+*  5) regularization, bias/variance tradeoff, sample complexity, VC dimension
+
+MODELS
+   6) kNN, greedy algos
+*  7) probability, classical statistics, naive Bayes
+   8) decision trees & random forests
+   9) ensemble methods
+  10) clustering
+  11) svm's
+
+ETC
+* 12) visualization w/ d3
+* 13) intro to nosql
+  14) map-reduce
+  15) dimensionality reduction
+  16) recommender systems
+  17) site visit?
+
+PROJECTS
+  18) working session
+  19) presentations I
+  20) presentations II
+  21) (open, see below)
+
+* addl curriculum development required
++ easily combined with guest lecture
+
+===========
+
+addl (1/2 lectures):
+- project progress check
+- industry stuff
+- 3x guest speakers
+
+===========
+
+possible wkd sessions:
+- pandas
+- open data (incl apis)
