@@ -1,0 +1,251 @@
+Rank	Name	Brewery	Type	ABV	WR	Reviews
+1	Heady Topper	The Alchemist	Imperial IPA	8	4.69	3146
+2	Pliny The Younger	Russian River Brewing Company	Imperial IPA	11	4.65	1572
+3	Pliny The Elder	Russian River Brewing Company	Imperial IPA	8	4.64	6129
+4	Founders CBS Imperial Stout	Founders Brewing Company	Imperial Stout	10.6	4.63	2026
+5	Founders KBS (Kentucky Breakfast Stout)	Founders Brewing Company	Imperial Stout	11.2	4.61	4714
+6	Zombie Dust	Three Floyds Brewing Co. & Brewpub	American Pale Ale	6.4	4.61	2978
+7	Trappist Westvleteren 12 (XII)	Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)		10.2	4.61	2891
+8	Bourbon County Brand Coffee Stout	Goose Island Beer Co.	Imperial Stout	14	4.61	2014
+9	Parabola	Firestone Walker Brewing Co.	Imperial Stout	12.5	4.55	2178
+10	Bourbon Barrel Aged Vanilla Bean Dark Lord	Three Floyds Brewing Co. & Brewpub	Imperial Stout	15	4.55	429
+11	The Abyss	Deschute Brewery	Imperial Stout	11	4.53	3032
+12	Supplication	Russian River Brewing Company	Imperial Stout	7	4.53	2715
+13	Bell's Hopslam Ale	Bell's Brewing Company	Imperial IPA	10	4.52	6267
+14	Cantillon Fou' Foune	Brasserie Cantillon	Fruit	5	4.52	914
+15	Founders Breakfast Stout	Founders Brewing Company	Imperial Stout	8.3	4.51	6956
+16	Trappistes Rochefort 10	Brasserie de Rochefort		11.3	4.51	4451
+17	Bourbon County Brand Stout	Goose Island Beer Co.	Imperial Stout	15	4.51	4239
+18	Citra DIPA	Kern River Brewing Company	Imperial IPA	8	4.51	714
+19	Hunahpu's Imperial Stout	Cigar City Brewing	Imperial Stout	11	4.5	1204
+20	Dark Horse Bourbon Barrel Aged Plead The 5th	Dark Horse Brewing Company	Imperial Stout	14	4.5	787
+21	å¤ucaba (Abacus)	Firestone Walker Brewing Co.		12.5	4.49	1704
+22	Bell's Black Note Stout	Bell's Brewing Company	Imperial Stout	11.5	4.49	1221
+23	Kuhnhenn Bourbon Barrel Fourth Dementia	Kuhnhenn Brewing Company	Old Ale	13.5	4.49	786
+24	Abrasive Ale	Surly Bewing Company	Imperial IPA	9	4.48	1662
+25	Abner	Hill Farmstead Brewery	Imperial IPA	8.2	4.48	611
+26	Double Sunshine IPA	Lawson's Finest Liquids	Imperial IPA	8	4.48	568
+27	Black Tuesday	The Bruery	Imperial Stout	19.2	4.47	1267
+28	Trappist Westvleteren 8 (VIII)	Brouwerij Westvleteren (Sint-Sixtusabdij van Westvleteren)		8	4.47	1137
+29	Beatification	Russian River Brewing Company		5.5	4.46	994
+30	St. Bernardus Abt 12	Brouwerij St. Bernardus NV		10	4.45	4517
+31	Darkness	Surly Bewing Company	Imperial Stout	10.3	4.45	1481
+32	Cantillon Lou Pepe - Kriek	Brasserie Cantillon	Fruit	5	4.45	684
+33	Consecration	Russian River Brewing Company		10	4.44	2094
+34	Double Galaxy	Hill Farmstead Brewery	Imperial IPA	8	4.44	375
+35	Dreadnaught IPA	Three Floyds Brewing Co. & Brewpub	Imperial IPA	9.5	4.43	3018
+36	Temptation	Russian River Brewing Company		7.5	4.43	1731
+37	Cantillon Saint Lamvinus	Brasserie Cantillon	Fruit	6	4.42	774
+38	Everett PorterAmerican Porte	Hill Farmstead Brewery	Porter	7.5	4.42	666
+39	Duck Duck Gooze	The Lost Abbey		7	4.42	404
+40	Cantillon BlÌ´bÌ_r LambikLambic	Brasserie Cantillon	Fruit	5	4.42	378
+41	Hunahpu's Imperial Stout - Laird's Apple Brandy Barrel	Cigar City Brewing	Imperial Stout	11.5	4.42	251
+42	Sculpin India Pale Ale	Ballast Point Brewing Company	American IPA	7	4.41	4099
+43	Weihenstephaner Hefeweissbier	Bayerishe Staatsbrauerei Weihenstephan		5.4	4.41	3794
+44	AleSmith Speedway Stout	Smith Brewing Company	Imperial Stout	12	4.41	2554
+45	Ephraim	Hill Farmstead Brewery	Imperial IPA	10.5	4.41	356
+46	Mother Of All Storms	Pelican Pub & Brewery	English Barleywine	14	4.4	805
+47	Adam From The Wood	Brewery and Tasting Room	Old Ale	12	4.4	305
+48	Enjoy By IPA	Stone Brewing Co.	Imperial IPA	9.4	4.39	1885
+49	Cantillon Gueuze 100% Lambic	Brasserie Cantillon	Lambic Gueuze	5	4.39	1086
+50	AleSmith Speedway Stout - Barrel Aged	Smith Brewing Company	Imperial Stout	12	4.39	540
+51	Cable Car	The Lost Abbey	Wild Ale	7	4.39	345
+52	TrÌ¦egs Nugget Nectar	TrÌ¦egs Brewing Company	Red Ale	7.5	4.38	4315
+53	PÌ©chÌ© Mortel (Imperial Stout Au Cafe)	Brasserie Dieu Du Ciel	Imperial Stout	9.5	4.38	2270
+54	Samuel Adams Utopias	Boston Beer Company (Samuel Adams)	American Strong Ale	29	4.38	933
+55	Bourbon Barrel Aged Dark Lord Imperial Stout	Three Floyds Brewing Co. & Brewpub	Imperial Stout	15	4.38	316
+56	Imperial Russian Stout	Stone Brewing Co.	Imperial Stout	10.5	4.37	4265
+57	Lagunitas Sucks Brown Shugga Substitute Ale	Lagunitas Brewing Company	Imperial IPA	7.85	4.37	3571
+58	Victory At Sea Coffee Vanilla Imperial PorterAmerican Porter	Ballast Point Brewing Company	Porter	10	4.37	1747
+59	Nelson	Alpine Beer Company	American IPA	7.1	4.37	1054
+60	Exponential Hoppiness	Alpine Beer Company	Imperial IPA	11	4.37	708
+61	Bell's Bourbon Barrel Aged Batch 9000	Bell's Brewing Company	American Strong Ale	14.9	4.37	317
+62	Founders Imperial Stout	Founders Brewing Company	Imperial Stout	10.5	4.36	3080
+63	Wet	Surly Bewing Company	American IPA	7.5	4.36	819
+64	Imperial Eclipse Stout - Elijah Craig (12 Year)	FiftyFifty Brewing Company	Imperial Stout	9.5	4.36	556
+65	Cherry Rye Bourbon County Brand Stout	Goose Island Beer Co.	Imperial Stout	13.7	4.36	531
+66	Chocolate Rain	The Bruery	Imperial Stout	19.5	4.36	482
+67	Hoppy Birthday	Alpine Beer Company	American Pale Ale	5.25	4.36	262
+68	Ten FIDY	Oskar Blues Brewing Company	Imperial Stout	10.5	4.35	3852
+69	Ayinger Celebrator Doppelbock	Privatbrauerei Franz Inselkammer KG	Doppelbock	6.7	4.35	3482
+70	Furious	Surly Bewing Company	American IPA	6.2	4.35	2347
+71	Duet IPA	Alpine Beer Company	American IPA	7	4.35	842
+72	Evil Twin Imperial Biscotti Break	Evil Twin Brewing	Imperial Stout	11.5	4.35	748
+73	Brute	Ithaca Beer Company	Wild Ale	6.5	4.35	672
+74	Silva Stout	Green Flash Brewing Co.	Imperial Stout	10.1	4.35	479
+75	Cascade Sang Noir	Raccoon Lodge & Brewpub	American Wild Ale	9.5	4.35	468
+76	Drie Fonteinen Oude Geuze Vintage	Brouwerik Drie Fonteinen	Gueuze	6	4.35	242
+77	Double Jack	Firestone Walker Brewing Co.	Imperial IPA	9.5	4.34	2698
+78	Blind Pig IPA	Russian River Brewing Company	American IPA	6.1	4.34	2419
+79	PannepotQuadrupel (Quad)	De Struise Brouwers		10	4.34	1190
+80	Pure Hoppiness	Alpine Beer Company	Imperial IPA	8	4.34	1116
+81	FantÌ«me Saison	Brasserie FantÌ«me	Farmhouse Ale	8	4.34	1112
+82	Fat Head's Head Hunter IPA	Fat Heads Brewery & Saloon	American IPA	7.5	4.34	879
+83	Melange No. 3	The Bruery	American Strong Ale	15.5	4.34	605
+84	Imperial Eclipse Stout - Elijah Craig (20 Year)	FiftyFifty Brewing Company	Imperial Stout	9.5	4.34	421
+85	Ruination IPA	Stone Brewing Co.	Imperial Stout	7.7	4.33	5586
+86	La Fin Du MondeTripel	Unibroue		9	4.33	5208
+87	Wisconsin Belgian Red	New Glarus Brewing Company	Vegetable Beer	4	4.33	1531
+88	Ruination Tenth Anniversary IPA	Stone Brewing Co.	Imperial IPA	10.8	4.33	1172
+89	Drie Fonteinen Oude Geuze	Brouwerij Drie Fonteinen	Gueuze	6	4.33	1041
+90	Great Lakes Barrel-Aged Blackout Stout	Great Lakes Brewing Company	Imperial Stout	9.5	4.33	748
+91	Edward	Farmstead Brewery	American Pale Ale	5.2	4.33	604
+92	Matt	Hair of the Dog Brewing Company	American Strong Ale	11.5	4.33	365
+93	Peg's G.O.O.D. RareR D.O.S.	Peg's Cantina & Brewpub	Imperial IPA		4.33	239
+94	Trappistes Rochefort 8	Brasserie de Rochefort	Belgian Strong Dark Ale	9.2	4.32	2630
+95	Schneider Weisse Tap 6 Unser Aventinus	Weisses BrÌ_uhaus G. Schneider & Sohn GmbH	Weizenbock	8.2	4.32	2608
+96	Lunch	Maine Beer Company	American IPA	7	4.32	952
+97	Masala Mama India Pale Ale	Minneapolis Town Hall Brewery	American IPA	6	4.32	922
+98	Drie Fonteinen Schaerbeekse Kriek	Brouwerik Drie Fonteinen	Fruit	6	4.32	464
+99	Cantillon Lou Pepe - Gueuze	Brasserie Cantillon	Gueuze	5	4.32	334
+100	Chimay Grande RÌ©serve (Blue)	BiÌ¬res de Chimay S.A.	Belgian Strong Dark Ale	9	4.31	3967
+101	Raspberry Tart	New Glarus Brewing Company	Vegetable Beer	4	4.31	1493
+102	Kuhnhenn Raspberry Eisbock	Kuhnhenn Brewing Company	Eisbock	15.5	4.31	546
+103	Fruet	The Bruery	Old Ale	15.5	4.31	431
+104	Birth Of Tragedy	Hill Farmstead Brewery	American Porter	9	4.31	362
+105	Imperial Russian Stout - Bourbon Barrel Aged	Stone Brewing Co.	Russian Imperial Stout	11.5	4.31	254
+106	Bad Boy	Alpine Beer Company	Imperial IPA	9	4.31	253
+107	Old Rasputin Russian Imperial Stout	North Coast Brewing Co.	Russian Imperial Stout	9	4.3	5886
+108	Double Bastard Ale	Stone Brewing Co.	American Strong Ale	11.2	4.3	3544
+109	Founders Backwoods Bastard	Founders Brewing Company	Scoth Ale	10.2	4.3	2913
+110	Dark Lord Imperial Stout	Three Floyds Brewing Co. & Brewpub	Russian Imperial Stout	15	4.3	2042
+111	Duvel	Brouwerij Duvel Moortgat NV	Belgian Strong Pale Ale	8.5	4.29	4289
+112	Westmalle Trappist Tripel	Brouwerij Westmalle	Tripel	9.5	4.29	2391
+113	Saison-Brett	Boulevard Brewing Co.	Farmhouse Ale	8.5	4.29	1142
+114	Sanctification	Russian River Brewing Company	American Wild Ale	6.75	4.29	1113
+115	Older Viscosity	Port Brewing Company	Imperial Stout	12	4.29	995
+116	Myrcenary Double IPA	Odell Brewing Company	Imperial IPA	9.3	4.29	991
+117	Live Oak HefeWeizen	Live Oak Brewing Company	Hefeweizen	5.2	4.29	621
+118	Arctic Devil Barley Wine	Midnight Sun Brewing Co.	English Barleywine	13.2	4.29	527
+119	The Event Horizon	Old Hickory Brewery	Imperial Stout	8.5	4.29	467
+120	Cantillon Lou Pepe - Framboise	Brasserie Cantillon	Fruit	5	4.29	379
+121	Peg's G.O.O.D. Rare D.O.S.	Peg's Cantina & Brewpub	American Double		4.29	127
+122	90 Minute IPA	Dogfish Head Brewery	Imperial IPA	9	4.28	7320
+123	Great Lakes Edmund Fitzgerald Porter	Great Lakes Brewing Company	American Porter	5.8	4.28	3163
+124	Alpha King Pale AleAmerican Pale	Three Floyds Brewing Co. & Brewpub	American Pale Ale	6.66	4.28	2901
+125	Beer Geek Brunch Weasel	Mikkeller ApS	Imperial Stout	10.9	4.28	1087
+126	Marshal Zhukov's Imperial Stout	Cigar City Brewing	Imperial Stout	11	4.28	943
+127	Cuvee Des Jacobins Rouge	Brouwerij Bockeror N.V.	Flanders Red Ale	5.5	4.28	864
+128	Hoponius Union	Jack's Abby Brewing	American Pale Lager	6.7	4.28	576
+129	SusanAmerican IPA	Farmstead Brewery	American IPA	6.2	4.28	252
+130	Winter Ale (2012)	Kern River Brewing Company	American Double	8	4.28	225
+131	Society & Solitude #4	Hill Farmstead Brewery	Imperial IPA	8	4.28	211
+132	Two Hearted Ale	Bell's Brewing Company	American IPA	7	4.27	5887
+133	Union Jack India Pale Ale	Firestone Walker Brewing Co.	American IPA	7.5	4.27	2466
+134	Terrapin Coffee Oatmeal Imperial Stout	Terrapin Beer Company	American Double	8.1	4.27	1905
+135	Oude Gueuze Tilquin ÌÊ L'Ancienne	Gueuzerie Tilquin	Gueuze	6	4.27	638
+136	Barrel Aged Sexual Chocolate	Foothills Brewing Company	Imperial Stout	9.75	4.27	395
+137	Humulus Lager	The Bruery	Imperial Pilsner	7.2	4.27	324
+138	Maple Bacon Coffee Porter	The Funky Buddha Lounge & Brewery	American Porter	6.3	4.27	222
+139	Society & Solitude #5	Hill Farmstead Brewery	Imperial IPA	7.8	4.27	179
+140	Kaggen! Stormaktsporter	NÌ_rke Kulturbryggeri AB	Russian Imperial Stout	10	4.27	133
+141	IPA (India Pale Ale)	Stone Brewing Co.	American IPA	6.9	4.26	5247
+142	Founders Porter	Founders Brewing Company	American Porter	6.5	4.26	2838
+143	Choklat	Southern Tier Brewing Company	Imperial Stout	10	4.26	2586
+144	AleSmith IPA	Smith Brewing Company	American IPA	7.25	4.26	1698
+145	Founders Harvest Ale	Founders Brewing Company	American IPA	6.5	4.26	1663
+146	CuvÌ©e Van De Keizer Blauw (Blue)	Brouwerij Het Anker	Belgian Strong Dark Ale	11	4.26	1050
+147	Barrel Aged B.O.R.I.S. Oatmeal Imperial Stout	Hoppin' Frog Brewery	Russian Imperial Stout	9.4	4.26	977
+148	Gandhi-Bot Double IPA	New England Brewing Co.	Imperial IPA	8.8	4.26	814
+149	Cantillon CuvÌ©e Des Champions	Brasserie Cantillon	Gueuze	5	4.26	387
+150	Cuvee De Castleton	Captain Lawrence Brewing Co.	American Wild Ale	9	4.26	340
+151	Double Citra	Hill Farmstead Brewery	Imperial IPA	8	4.26	185
+152	Barrel-Aged Abraxas	Perennial Artisan Ales	Imperial Stout	11	4.26	128
+153	Sublimely Self-Righteous Ale	Stone Brewing Co.	American Black Ale	8.7	4.25	3280
+154	Hop Rod Rye	Bear Republic Brewing Co.	American IPA	8	4.25	3100
+155	Oak Aged Yeti Imperial Stout	Great Divide Brewing Company	Russian Imperial Stout	9.5	4.25	2463
+156	Rodenbach Grand Cru	Brouwerij Rodenbach N.V.	Flanders Red Ale	6	4.25	1615
+157	Allagash Curieux (Bourbon Barrel-Aged Tripel)	Allagash Brewing Company	Tripel	11	4.25	1490
+158	Plead The 5th Imperial Stout	Dark Horse Brewing Company	Russian Imperial Stout	11	4.25	1362
+159	Racer X Double IPA	Bear Republic Brewing Co.	Imperial IPA	8.3	4.25	935
+160	Bourbon Barrel Barleywine	Central Waters Brewing Company	American Barleywine	11.5	4.25	931
+161	White Rajah	Kettle Taproom & Smokehouse	American IPA	6.8	4.25	558
+162	Knuckle SandwichAmerican Double / Imperial IPA / 10.00% ABVBootlegger's Brewery	Bootlegger's Brewery		10	4.25	510
+163	Twilight Of The Idols	Hill Farmstead Brewery	American Porter	7.5	4.25	419
+164	Andechser Doppelbock Dunkel	Klosterbrauerei Andechs	Doppelbock	7.1	4.25	391
+165	Kuhnhenn Bourbon Barrel Barley Wine	Kuhnhenn Brewing Company	English Barleywine	14.5	4.25	307
+166	Framboise For A Cure	Russian River Brewing Company	American Wild Ale	6.5	4.25	296
+167	Cascade Sang Royal	Raccoon Lodge & Brewpub	American Wild Ale	9.35	4.25	285
+168	Flower Power India Pale Ale	Ithaca Beer Company	American IPA	7.5	4.24	2114
+169	Tripel Karmeliet	Brouwerij Bosteels	Tripel	8.4	4.24	1888
+170	Lips Of Faith - La Folie	New Belgium Brewing	Flanders Oud Bruin	6	4.24	1605
+171	AdamOld Ale	Hair of the Dog Brewing Company	Old Ale	10	4.24	1359
+172	Odell IPA	Odell Brewing Company	American IPA	7	4.24	1002
+173	J.W. Lees Vintage Harvest Ale	J.W. Lees & Co. (Brewers) Ltd	English Barleywine	11.5	4.24	968
+174	DeliveranceAmerican Strong Ale	The Lost Abbey	American Strong Ale	12.5	4.24	742
+175	Girardin Gueuze 1882 (Black Label)	Brouwerij Girardin	Gueuze	5	4.24	667
+176	Pannepot Reserva	De Struise Brouwers		10	4.24	523
+177	Bitter MonkBelgian IPA	Anchorage Brewing Company	Belgian IPA	9	4.24	408
+178	Black Damnation V - Double Black	De Struise Brouwers	Imperial Stout	26	4.24	193
+179	Columbus Bodhi DIPA	Columbus Brewing Company	Imperial IPA	8	4.24	192
+180	FifteenAmerican Doubl	Central Waters Brewing Company	Imperial Stout	11	4.24	134
+181	Samuel Smith's Oatmeal Stout	Samuel Smith Old Brewery	Oatmeal Stout	5	4.23	3688
+182	Burton BatonAmerican Double	Dogfish Head Brewery	Imperial IPA	10	4.23	3378
+183	Green Flash West Coast I.P.A.	Green Flash Brewing Co.	American IPA	7.3	4.23	3367
+184	A Little Sumpin' Sumpin' Ale	Lagunitas Brewing Company	American Pale Wheat Ale	7.5	4.23	3207
+185	Espresso Oak Aged Yeti Imperial Stout	Great Divide Brewing Company	American Double	9.5	4.23	1689
+186	B.O.R.I.S. The Crusher Oatmeal-Imperial Stout	Hoppin' Frog Brewery	Russian Imperial Stout	9.4	4.23	1589
+187	Weihenstephaner Hefeweissbier	Bayerishe Staatsbrauerei Weihenstephan	Dunkelweizen	5.3	4.23	1476
+188	Weihenstephaner Vitus	Bayerishe Staatsbrauerei Weihenstephan	Weizenbock	7.7	4.23	1462
+189	Wookey Jack	Firestone Walker Brewing Co.	American Black Ale	8.3	4.23	1406
+190	Red Poppy Ale	The Lost Abbey	Flanders Red Ale	5.5	4.23	897
+191	Broo Doo	Three Floyds Brewing Co. & Brewpub	American IPA	7	4.23	850
+192	Alchemy Hour Double IPA	Great Lakes Brewing Company	Imperial IPA	9.4	4.23	767
+193	Lips Of Faith - Le Terroir	New Belgium Brewing Company	American Wild Ale	7.5	4.23	509
+194	Cascade Apricot Ale	Raccoon Lodge & Brewpub	American Wild Ale	8.5	4.23	485
+195	Firestone 16 - Anniversary Ale	Firestone Walker Brewing Co.	American Strong Ale	13	4.23	456
+196	Serendipity	New Glarus Brewing Company	Vegetable Beer	4	4.23	418
+197	Czar Jack Imperial Stout	Minneapolis Town Hall Brewery	Russian Imperial Stout	9.3	4.23	273
+198	Great	Alpine Beer Company	American Barleywine	14	4.23	205
+199	Peche 'n Brett	Logsdon Farmhouse Ales	Farmhouse Ale	10	4.23	166
+200	Hop Venom Double IPA	Boneyard Beer Company	Imperial IPA	10	4.23	162
+201	Permanent Funeral	Three Floyds Brewing Co. & Brewpub	Imperial IPA	10.5	4.23	130
+202	Oaked Arrogant Bastard Ale	Stone Brewing Co.	American Strong Ale	7.2	4.22	3311
+203	Maharaja	Avery Brewing Company	Imperial IPA	10.4	4.22	2999
+204	Trois Pistoles	Unibroue	Belgian Strong Dark Ale	9	4.22	2968
+205	Yeti Imperial Stout	Great Divide Brewing Company	Russian Imperial Stout	9.5	4.22	2674
+206	Gumballhead	Three Floyds Brewing Co. & Brewpub	American Pale Wheat Ale	5.6	4.22	2553
+207	St. Bernardus Tripel	Brouwerij St. Bernardus NV	Tripel	8	4.22	1727
+208	Arctic Panzer Wolf	Three Floyds Brewing Co. & Brewpub	Imperial IPA	9	4.22	1582
+209	Behemoth Blonde Barleywine	Three Floyds Brewing Co. & Brewpub	American Barleywine	10.5	4.22	1016
+210	Zoe	Maine Beer Company	American Amber	7.2	4.22	927
+211	Cantillon Iris	Brasserie Cantillon	Lambic	5	4.22	679
+212	Big Bad Baptist	Epic Brewing Co.	Imperial Stout	11.8	4.22	625
+213	Cantillon Vigneronne	Brasserie Cantillon	Fruit	5	4.22	445
+214	Cherry Adam From The Wood	Hair of the Dog Brewing Company	Old Ale	10	4.22	428
+215	Berserker Imperial Stout	Midnight Sun Brewing Co.	Imperial Stout	12.7	4.22	390
+216	Lindley ParkAmerican Double	Olde Hickory Brewery	Imperial Stout	10	4.22	273
+217	Bligh's Barleywine Ale	Dry Dock Brewing Co.	English Barleywine	10	4.22	230
+218	AleSmith Speedway Stout - Kopi Luwak	Smith Brewing Company	Imperial Stout	12	4.22	171
+219	Society & Solitude #6	Hill Farmstead Brewery	Imperial IPA	8.1	4.22	152
+220	Racer 5 India Pale Ale	Bear Republic Brewing Co.	American IPA	7	4.21	4089
+221	Founders Red's Rye PA	Founders Brewing Company	Rye Beer	6.6	4.21	3221
+222	Founders Double Trouble	Founders Brewing Company	Imperial IPA	9.4	4.21	2902
+223	Gulden Draak (Dark Triple)	Brouwerij Van Steetnberge N.V.	Belgian Strong Dark Ale	10.5	4.21	2049
+224	Old Ruffian Barley Wine	Great Divide Brewing Company	American Barleywine	10.2	4.21	1498
+225	YuleSmith (Summer)	Smith Brewing Company	Imperial IPA	8.5	4.21	1074
+226	Black Albert	De Struise Brouwers	Imperial Stout	13	4.21	1056
+227	The Angel's Share - Bourbon Barrel-Aged	The Lost Abbey	American Strong Ale	12.5	4.21	988
+228	The Oracle	Bell's Brewing Company	Imperial IPA	10	4.21	884
+229	Oude Tart	The Bruery	Flanders Red Ale	7.5	4.21	783
+230	Smuttynose Baltic Porter (Big Beer Series)	Smuttynose Brewing Company	Blatic Porter	9.24	4.21	735
+231	Dancing Man Wheat	New Glarus Brewing Company	Hefeweizen	7.2	4.21	704
+232	Kuhnhenn Fourth Dementia (4D)	Kuhnhenn Brewing Company	Old Ale	13.5	4.21	591
+233	Ivan The Terrible Imperial Stout	Big Sky Brewing Company	Russian Imperial Stout	10	4.21	433
+234	Kiwi Rising - Double IPL	Jack's Abby Brewing	Imperial Pilsner	8.5	4.21	222
+235	Bourbon Abominable Winter Ale	Fremont Brewing Company	American Strong Ale	11	4.21	195
+236	Compunction	Russian River Brewing Company	American Wild Ale	5.4	4.21	155
+237	Baudoinia	Goose Island Beer Co.	Imperial Stout	15	4.21	107
+238	Hop Stoopid	Lagunitas Brewing Company	Imperial IPA	8	4.2	3714
+239	Orval Trappist Ale	Brasserie d'Orval S.A.	Belgian Pale Ale	6.2	4.2	3065
+240	Bell's Expedition Stout	Bell's Brewing Company	Imperial Stout	10.5	4.2	2958
+241	Great Lakes Blackout Stout	Great Lakes Brewing Company	Russian Imperial Stout	9	4.2	1674
+242	Obsidian Stout	Deschute Brewery	American Stout	6.4	4.2	1552
+243	Cantillon Kriek 100% Lambic	Brasserie Cantillon	Fruit	5	4.2	935
+244	Apocalypse Cow	Three Floyds Brewing Co. & Brewpub	Imperial IPA	11	4.2	889
+245	Red Racer IPA (India Pale Ale)	Central City Brewing	American IPA	6.5	4.2	655
+246	Just Outstanding IPA	Kern River Brewing Company	American IPA	6.8	4.2	639
+247	Allagash Odyssey	Allagash Brewing Company	Belgian Strong Dark Ale	10.4	4.2	581
+248	Columbus IPA	Columbus Brewing Company	American IPA	6.5	4.2	564
+249	Barrel Aged Yeti	Great Divide Brewing Company	Russian Imperial Stout	10.7	4.2	445
+250	Rye'da TigerAmerican Double	Three Floyds Brewing Co. & Brewpub	Imperial IPA	8.6	4.2	397
