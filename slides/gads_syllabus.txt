@@ -45,4 +45,6 @@ addl (1/2 lectures):
 
 possible wkd sessions:
 - pandas
+- mongodb
 - open data (incl apis)
+- git
