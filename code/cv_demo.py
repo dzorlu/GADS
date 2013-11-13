@@ -55,6 +55,6 @@ if __name__ == '__main__':
     # pretend labels
     y = np.array(['y0', 'y1', 'y2', 'y3', 'y4', 'y5', 'y6', 'y7', 'y8', 'y9'])
 
-    print_data(x, y)
+    # print_data(x, y)
     holdout(x, y)
-    kfolds(x, y)
+    # kfolds(x, y)
