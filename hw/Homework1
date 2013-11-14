@@ -1,0 +1,22 @@
+#Homework
+
+For the homework, we want you to predict the presence of heart disease in the patient. A logistic regression model is a suitable model for such an exercise. The link for attribute information is below: 
+
+http://archive.ics.uci.edu/ml/datasets/Heart+Disease
+
+Download the data here:
+
+Training Set:
+https://github.com/dzorlu/GADS/blob/master/data/train-heart-disease.csv
+
+Test Set Feature Set / Labels:
+https://github.com/dzorlu/GADS/blob/master/data/test-heart-disease.csv
+
+https://github.com/dzorlu/GADS/blob/master/data/test-labels.csv
+
+##Questions 
+1 - Train your logistic regression model on the training set. What do the coefficients of your model imply? What does it mean when a coef is negative or positive? 
+
+3 - Predict the presence of heart disease on the test set. Report the accuracy of your model.
+
+3 - How do you think you can improve the accuracy of your model on the test set? Does improved accuracy on training set always translate to higher accuracy in the test set? 
