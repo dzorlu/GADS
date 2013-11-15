@@ -19,7 +19,7 @@ http://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 	(a) Report the average AUC as well as misclassification rate (percent of times you guessed the label wrong).  
 
-	(b) What is your accuracy of your prediction on the test set? 
+
 
 2 - Train your model applying 5-fold cross-validation, but this time to select the features. 
 
@@ -29,7 +29,7 @@ http://archive.ics.uci.edu/ml/datasets/Heart+Disease
 
 	(b) If you want to reduce the number of features, which two features would you remove from the model first (hint: RFECV ). 
 
-	(c) What is your accuracy of your prediction after removing the features? 
+
 
 The code will be available Monday night. Thanks! 
 
