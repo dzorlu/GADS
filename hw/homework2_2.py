@@ -5,6 +5,13 @@ from numpy import pi
 import pandas as pd
 import matplotlib.pyplot as plt
 
+'''
+The point here is to show a simpler model might do better out-of-sample.
+Even though the complex model (linear) has a lower bias (see graph),
+the variance turns out to be much higher compared to the simple model. 
+'''
+
+
 def bias_variance():
 	number_trials = 10000
 	x = np.linspace(-1,1,1000)
