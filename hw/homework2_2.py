@@ -47,8 +47,8 @@ def bias_variance():
 	bias_simple = mse(np.sin(pi*x),np.mean(y_hat_simple,0))
 	bias_complex = mse(np.sin(pi*x),np.mean(y_hat_complex,0))
 	#Variance - Calculate the MSE for each realization and take the average. 
-	variance_simple = np.mean([mse(np.sin(pi*x),var) for var in y_hat_simple])
-	variance_complex = np.mean([mse(np.sin(pi*x),var) for var in y_hat_complex])
+	variance_simple = np.mean([mse(bias_simple,var) for var in y_hat_simple])
+	variance_complex = np.mean([mse(bias_complex,var) for var in y_hat_complex])
 
 	print 'For simple model, the bias is {0} and the variance is {1}'.format(bias_simple,variance_simple)
 	print 'For complex model, the bias is {0} and the variance is {1}'.format(bias_complex,variance_complex)
