@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8'>
+<script type='text/javascript' src='http://d3js.org/d3.v3.min.js'></script>
+</head>
+
+<body>
+<script type='text/javascript'>
+
+    // svg parameters
+    var svg_w = 500,
+        svg_h = 50;
+
+    // toy dataset
+    var dataset = [5, 10, 15, 20, 25];
+
+    // default categorical scale for colors
+    var color = d3.scale.category10();
+
+    // create svg (container) elt
+    var svg = d3.select('body')
+          .append('svg')
+          .attr('width', svg_w)
+          .attr('height', svg_h);
+
+    // perform data join
+    svg.selectAll('circle')             // select (not yet existent!) circle elts
+        .data(dataset)                  // bind dataset to incoming circle elts
+        .enter().append('circle');      // create new circle elts by binding to parent elt
+
+    // dynamically set attributes
+    svg.selectAll('circle')
+        .attr('cx', function(d, i) { return (i * 50) + 25; })   // NOTE use of anonymous func
+        .attr('cy', svg_h / 2)
+        .attr('r', function(d) { return d; })
+        .style('fill', function(d, i) {
+            return color(i);
+            console.log('drawing circle ' + i + '!');       // write to js console
+        })
+        .on('mouseenter', mouseenter)   // add event listener
+        .on('mouseover', mouseover)     // add event listener
+        .on('mouseout', mouseout);      // add event listener
+
+function mouseenter(d, i) {             // NOTE default params (d, i) refer to (data elt, index) associated with DOM node that has caught event
+    console.log('event! (data elt ' + d + ', index ' + i + ')');
+}
+
+function mouseover() {
+    d3.select(this)                     // NOTE "this" keyword refers to node on which event occurred
+        .style('fill', 'yellow');
+}
+
+function mouseout(d, i) {
+    d3.select(this)
+        .style('fill', color(i));
+}
+
+// refs
+// d3 test page                  http://alignedleft.com/content/03-tutorials/01-d3/40-adding-elements/1.html
+// d3 front page                 http://d3js.org
+// d3 api reference              https://github.com/mbostock/d3/wiki/API-Reference
+// bostock intro slides          http://bost.ocks.org/mike/d3/workshop/
+// murray intro                  http://alignedleft.com/tutorials/d3/
+// bostock selections tutorial   http://bost.ocks.org/mike/selection/
+// bostock data join tutorial    http://bost.ocks.org/mike/join/
+// bostock map tutorial          http://bost.ocks.org/mike/map/
+
+</script>
