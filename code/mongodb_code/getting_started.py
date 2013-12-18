@@ -11,7 +11,7 @@ def main():
 
   '''connect to the collection'''
   db = connection.test
-  people = db.test
+  people = db.
 
   try:
     '''Python dictionary'''
