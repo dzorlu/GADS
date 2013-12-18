@@ -1,4 +1,4 @@
-use school
+use test
 db.students.drop();
 types = ['exam', 'quiz', 'homework', 'homework'];
 for (i = 0; i < 10000000; i++) {
