@@ -1,0 +1,16 @@
+
+
+
+###Question 1
+db.messages.aggregate([
+{$match:{'headers.From': 'andrew.fastow@enron.com'}},
+{$unwind:'$headers.To'},
+{$match:{'headers.To': 'john.lavorato@enron.com'}},
+{$group:{_id:'$_id'}}])
+
+###Question 2
+db.messages.aggregate([
+{$group:{_id: '$_id','From':{'$push': '$headers.From'}, 'To': {'$addToSet': '$headers.To'}}},
+{$unwind: '$To'},
+{$group: {_id: {'From': '$From','To':'$To'}, 'Count': {$sum: 1}}},
+{$sort : {'Count': 1}}])
