@@ -9,7 +9,7 @@ class InsultDetector:
     def __init__(self, comment_arr, insult_arr):
         """constructor takes two input arrays:
         comment_arr: an array of strings, comments in a conversation
-        insult_arr:  each entry is True iff coresponding comment is an insult
+        insult_arr:  each entry is True iff corresponding comment is an insult
         """
 
         # constructor initializes a few key instance variables
